@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://NatureSword.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-03-27T05:34:32.256Z</updated>
+    <title>Puchengbro</title>
+    <updated>2020-03-27T05:38:18.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://NatureSword.github.io"/>
     <link rel="self" href="https://NatureSword.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>经此用于记录生活</subtitle>
     <logo>https://NatureSword.github.io/images/avatar.png</logo>
     <icon>https://NatureSword.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, Puchengbro</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://NatureSword.github.io/post/hello-gridea/</id>
